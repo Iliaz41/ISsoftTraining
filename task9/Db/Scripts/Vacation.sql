@@ -1,0 +1,3 @@
+﻿INSERT INTO [dbo].[Vacation] ([Id], [StartDate], [EndDate])
+VALUES
+	('CA1A7854-48FF-40A8-AA64-1529B3ED8C64', '10/10/2017', '15/11/2017')
